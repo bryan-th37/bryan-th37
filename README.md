@@ -1,8 +1,5 @@
 # Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedin/)
-
 I am a passionate iOS developer with a love for crafting beautiful and functional apps using Swift. My journey in mobile development has led me to work on various exciting projects, and I am always eager to learn new technologies and improve my skills.
 
 ## 🔧 Technologies & Tools
