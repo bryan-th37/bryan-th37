@@ -19,8 +19,4 @@ I am a passionate iOS developer with a love for crafting beautiful and functiona
 
 I'm open to collaborating on interesting projects and ideas. If you have a project that you think we could work on together, feel free to reach out!
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🎨 Fun Facts
