@@ -77,16 +77,6 @@ I'm an experienced Azure AI Full Stack Developer dedicated to crafting intellige
 - 👁️ Intelligent apps with Azure Cognitive Services
 - 📦 Microservices architectures on AKS
 
----
-
-## 🤝 Let's Collaborate!
-
-I'm always excited to collaborate on innovative Azure-based AI projects. If you've got an idea or a project to discuss, I'd love to connect!
-
-📫 You can reach me at: [Your Email](mailto:your.email@example.com) or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
 ## 🎯 Fun Facts
 
 - 💡 Passionate about using AI to solve real-world problems
