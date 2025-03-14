@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/192140555-6d6c2f58-a8d2-4e10-8e24-7cc6f4b3e1a9.gif" width="100"/>
 </p>
 
-<h1 align="center">Hello, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello, I'm Bryan 👋</h1>
 
 <p align="center">
   <strong>Azure AI Full Stack Developer | Passionate about building intelligent & scalable applications 🚀</strong>
